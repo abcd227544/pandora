@@ -92,6 +92,6 @@
 
 [![Star History Chart](https://contrib.rocks/image?repo=pengzhile/pandora)](https://github.com/pengzhile/pandora/graphs/contributors)
 
-## Star历史
+## Star历史1
 
 ![Star History Chart](https://api.star-history.com/svg?repos=pengzhile/pandora&type=Date)
